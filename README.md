@@ -23,6 +23,9 @@ TLDR; this means:
 * You are free to distribute and modify the files
 * Any modifications to the design must also be licensed under Apache 2.0
 * Any modifications to the design must be documented
+* You must add an attribution notice to any derivative works
 * Design cannot be trademarked
 * I am not liable for anything that comes out of you using this design
 * Design provided as is with no warranty
+
+Although not required, it would be great if you notify me before running any form of group-buy with the Generic65 or its derivatives.
