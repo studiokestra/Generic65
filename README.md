@@ -4,7 +4,7 @@
 
 Generic65 is an open-source 65% keyboard case. It uses a gasket mounting style and was designed around the KBD67v2 MKII PCB. The plate supports the following layout that everyone seems to love:
 
-![Generic65](https://github.com/studiokestra/Generic65/blob/master/img/layout.PNG)
+![layout](https://github.com/studiokestra/Generic65/blob/master/img/layout.PNG)
 
 Note that this design has not been prototyped or tested, **please use at your own risk.**
 
